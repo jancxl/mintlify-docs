@@ -18,7 +18,7 @@
   "topbarLinks": [
     {
       "name": "Support",
-      "url": "mailto:hi@mintlify.com"
+      "url": "mailto:customersuccess@vouch.sg"
     }
   ],
   "topbarCtaButton": {
@@ -53,7 +53,7 @@
       "group": "Get Started",
       "pages": [
         "introduction",
-        "quickstart",
+        "Getting Started",
         "development"
       ]
     },
