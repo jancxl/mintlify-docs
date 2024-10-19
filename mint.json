@@ -33,6 +33,17 @@
   ],
   "anchors": [
     {
+      "group": "Getting Started",
+      "pages": [
+        "essentials/markdown",
+        "essentials/login",
+        "essentials/images",
+        "essentials/settings",
+        "essentials/navigation",
+        "essentials/reusable-snippets"
+      ]
+    },
+    {
       "name": "Documentation",
       "icon": "book-open-cover",
       "url": "https://mintlify.com/docs"
@@ -55,17 +66,6 @@
         "introduction",
         "Getting Started",
         "development"
-      ]
-    },
-    {
-      "group": "Getting Started",
-      "pages": [
-        "essentials/markdown",
-        "essentials/login",
-        "essentials/images",
-        "essentials/settings",
-        "essentials/navigation",
-        "essentials/reusable-snippets"
       ]
     },
     {
